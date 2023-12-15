@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     function iniciarCuentaAtras() {
-      const fechaObjetivo = new Date('2023-12-17T12:30:00');
+      const fechaObjetivo = new Date('2023-12-17T22:00:00');
 
       function actualizarCuentaAtras() {
         const ahora = new Date().getTime();
